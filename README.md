@@ -55,9 +55,10 @@ http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple3/v4/74/d2/82/7
    cd Desktop  
    mkdir elCapitanRoot 
    ```
-   根据抓包得到的 path 创建相关路径
+   根据抓包得到的 path 创建相关路径,在 elCapitanRoot 目录下
    
    ```
+   cd elCapitanRoot
    sudo mkdir -p  ./apple-assets-us-std-000001/Purple3/v4/74/d2/82/74d28291-9db9-7ae2-305d-9b8b3f5fd463/
    ```
    
