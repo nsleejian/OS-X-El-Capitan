@@ -63,7 +63,7 @@ http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple3/v4/74/d2/82/7
    ```
    
     把下载的 .pkg 文件拷贝到路径下面，就是目录 74d28291-9db9-7ae2-305d-9b8b3f5fd463 下
-![](http://ww2.sinaimg.cn/large/ad695ba9gw1ewlw1m8vdvj20k60280t6.jpg)    
+![](http://ww4.sinaimg.cn/large/ad695ba9gw1ewlxhs5hwsj20yk02o3zg.jpg)    
     
     然后再 elCapitanRoot 目录下，注意一定要再 elCapitanRoot 目录下，运行如下命令启动 SimpleHTTPServer
     
