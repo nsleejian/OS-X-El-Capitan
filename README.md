@@ -2,7 +2,7 @@
 ####基本原理
  ---
 #####抓取苹果官方下载链接，用第三方下载工具下载 .pkg 文件。搭建本地 server ,将苹果的下载地址解析到本地的服务器,从而实现快速下载安装。
- ---
+
 
 
 (适用于 El Capitan 更新慢的用户，有百兆光纤的用户可忽略)
@@ -74,7 +74,7 @@ http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple3/v4/74/d2/82/7
     
 ![](http://ww3.sinaimg.cn/large/ad695ba9gw1ewlw5758ttj20uk04ita2.jpg)   
 
-此时你可以在浏览器中测试一下儿下载速度，再地址栏输入我们抓取的苹果官方的下载链接，如果一切配置都正确，你应开回看到百兆的下载速度
+此时你可以在浏览器中测试一下儿下载速度，在地址栏输入我们抓取的苹果官方的下载链接，如果一切配置都正确，你应该会看到百兆的下载速度
 
 ![](http://ww3.sinaimg.cn/large/ad695ba9gw1ewlwa88cvzj20wc046myd.jpg)
 ####最后一步
@@ -87,6 +87,10 @@ enjoy...
 ###注意：安装完成之后，请把 hosts 文件还原。
 
 ---
+#####UPDATE   : 2015.10.02
+#####如果有 VPS 的话，也可以先下载到自己的 VPS 上，然后将苹果的下载地址解析到 VPS ，原理相通。
+ ---
+
 相关链接：
 
 [URL](https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6)
