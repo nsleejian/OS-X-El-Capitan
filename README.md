@@ -48,7 +48,7 @@ http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple3/v4/74/d2/82/7
    ![](http://ww1.sinaimg.cn/large/ad695ba9gw1ewlvkyv902j20yc0c8dk2.jpg)
    这样 DNS 就会将 osxapps.itunes.apple.com 解析到本地
   
- * 3.3 搭建 SimpleHTTPServer 
+* 3.3 搭建 SimpleHTTPServer 
    首先创建根目录(路径可自己修改)，本人放在桌面
    
    ```
@@ -92,3 +92,4 @@ enjoy...
 [SimpleHTTPServer](http://coolshell.cn/articles/1480.html)
 
 [hosts 文件](https://zh.wikipedia.org/wiki/Hosts%E6%96%87%E4%BB%B6)
+
