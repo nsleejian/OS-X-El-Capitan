@@ -10,7 +10,7 @@
 #####第一步、抓去苹果官方下载链接
 
 由于前段时间的 Xcode Ghost 时间影响，当然不能再信任第三方的网盘，自己动手丰衣足食。
-通过 Charles 抓去到的链接如下：
+通过 Charles 抓取到的链接如下：
 
 ```
 http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple3/v4/74/d2/82/74d28291-9db9-7ae2-305d-9b8b3f5fd463/ftk3252456602304584541.pkg
